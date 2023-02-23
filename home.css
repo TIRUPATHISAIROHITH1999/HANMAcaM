@@ -1,0 +1,636 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SHOP NOW */
+.shopButtons {
+    position: absolute;
+    top: 600px;
+    left: 300px;
+}
+
+.shopButtons h1 {
+    background-color: rgba(245, 245, 245, 0.515);
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.shopButtons h2 {
+    background-color: rgba(245, 245, 245, 0.515);
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.shopButtons button {
+    width: 200px;
+    height: 60px;
+    border-radius: 50px;
+    font-size: 25px;
+    outline: none;
+    border: 0px solid;
+    font-weight: 600;
+    background-color: red;
+    color: whitesmoke;
+    transition: 0.5s;
+    margin-top: 20px;
+}
+
+.shopButtons button:hover {
+    background-color: rgb(3, 228, 3);
+    transition: 0.5s;
+}
+
+/* main part end here */
+
+/* section shop by category */
+.shopByCategory
+{
+    background-image: url("source/shopByCategory.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 10%;
+}
+/* risk */
+.slider-wrap0 {
+    width: 80%;
+    height: fit-content;
+    border: 0px solid black;
+    cursor: grab;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.btn-pre {
+    font-size: 30px;
+    color: rgb(43, 39, 39);
+    background-color: transparent;
+    position: absolute;
+    left: 3%;
+    border: 0px solid;
+    border-radius: 10%;
+    height: 700px;
+    width: 5%;
+    outline: none;
+    border: 0px solid;
+    transition: 0.5s;
+}
+.btn-pre:hover
+{
+    color: rgba(255, 0, 0, 0.591);
+}
+
+.btn-next {
+    font-size: 30px;
+    color: rgb(77, 60, 60);
+    background-color:transparent;
+    position: absolute;
+    right: 3%;
+    border: 0px solid;
+    border-radius: 10%;
+    height: 700px;
+    width: 5%;
+    outline: none;
+    border: 0px solid;
+    transition: 0.5s;
+}
+.btn-next:hover
+{
+    color: rgba(255, 0, 0, 0.591);
+}
+#card
+{
+    background-color: rgba(245, 245, 245, 0.363);
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+}
+#card span i
+{
+    color: rgb(255, 217, 0);
+    font-size: 25px;
+}
+.main-tag
+{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+}
+/* card buttons */
+.card-link
+{
+    width: 100px;
+    height: 40px;
+    border-radius: 50px;
+    outline: none;
+    border: 0px solid;
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 800;
+    background-color: rgba(255, 0, 0, 0.643);
+    transition: 0.5s;
+}
+.card-link:hover
+{
+    transition: 0.5s;
+    background-color: rgba(0, 128, 0, 0.439);
+    color: rgba(21, 21, 21, 0.552);
+}
+/* Shop by product */
+
+.shopByProduct
+{
+    padding-bottom: 10%;
+    background-color: rgb(255, 255, 255);
+}
+/* one */
+
+.sliderButtons1 {
+    text-align: center;
+}
+
+.btn-pre1 {
+    font-size: 30px;
+    color: rgb(43, 39, 39);
+    background-color: transparent;
+    position: absolute;
+    left: 1%;
+    border: 0px solid;
+    border-radius: 10%;
+    height: 500px;
+    width: 5%;
+    outline: none;
+    border: 0px solid;
+    transition: 0.5s;
+}
+.btn-pre1:hover
+{
+    color: rgba(255, 0, 0, 0.591);
+}
+
+.btn-next1 {
+    font-size: 30px;
+    color: rgb(77, 60, 60);
+    background-color:transparent;
+    position: absolute;
+    right: 1%;
+    border: 0px solid;
+    border-radius: 10%;
+    height: 500px;
+    width: 5%;
+    outline: none;
+    border: 0px solid;
+    transition: 0.5s;
+}
+.btn-next1:hover
+{
+    color: rgba(255, 0, 0, 0.591);
+}
+
+/* risk */
+.slider0 {
+    height: 100%;
+    width: 100%;
+    overflow: scroll;
+    scroll-behavior: smooth;
+}
+
+/* risk */
+.slider0::-webkit-scrollbar {
+    display: none;
+}
+
+
+
+/* risk */
+.slider-inner0 {
+    justify-content: space-around;
+    display: flex;
+    height: 100%;
+    width: 3000px;
+}
+/* risk */
+.item0 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 98%;
+    border: 0px solid black;
+    background-color: rgba(255, 228, 196, 0.57);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* two */
+
+
+
+
+
+
+
+/* three */
+
+
+
+
+
+
+
+/* four */
+
+
+
+
+
+
+
+
+
+/* common */
+.main-tag1
+{
+    text-align: center;
+    padding-top: 5%;
+}
+.second-tag
+{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+/* shop by product end */
+/* minions */
+.minions
+{
+    display: flex;
+    text-align: center;
+    background-color: antiquewhite;
+    padding-bottom: 10%;
+    
+}
+.minion-img
+{
+    width: 100px;
+    height: fit-content;
+    margin-bottom: 2%;
+}
+.feature-head
+{
+    padding-top: 5%;
+    margin-bottom: 5%;
+}
+
+/* common part */
+.overlay {
+    width: 100%;
+    height: 150%;
+    background-color: rgba(245, 245, 245, 0.678);
+    filter: blur(3px);
+    z-index: 5;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: none;
+}
+
+
+/* resolution */
+@media screen and (max-width:1700px) {
+
+    /* shop buttons */
+    .shopButtons {
+        position: absolute;
+        top: 45%;
+        left: 300px;
+    }
+
+    .shopButtons h1 {
+        background-color: rgba(245, 245, 245, 0.515);
+        padding: 30px;
+        border-radius: 30px;
+        font-size: 30px;
+    }
+
+    .shopButtons h2 {
+        background-color: rgba(245, 245, 245, 0.515);
+        padding: 20px;
+        border-radius: 30px;
+        font-size: 20px;
+    }
+
+    .shopButtons button {
+        width: 200px;
+        height: 60px;
+        border-radius: 50px;
+        font-size: 25px;
+        outline: none;
+        border: 0px solid;
+        font-weight: 600;
+        background-color: red;
+        color: whitesmoke;
+        transition: 0.5s;
+        margin-top: 20px;
+    }
+
+    .shopButtons button:hover {
+        background-color: rgb(3, 228, 3);
+        transition: 0.5s;
+
+    }
+
+}
+
+@media screen and (max-width:1200px) {
+
+    /* shop buttons */
+    .shopButtons {
+        position: absolute;
+        top: 35%;
+        left: 200px;
+    }
+
+    .shopButtons h1 {
+        background-color: rgba(245, 245, 245, 0.515);
+        padding: 20px;
+        border-radius: 30px;
+        font-size: 20px;
+    }
+
+    .shopButtons h2 {
+        background-color: rgba(245, 245, 245, 0.515);
+        padding: 10px;
+        border-radius: 30px;
+        font-size: 15px;
+    }
+
+    .shopButtons button {
+        width: 200px;
+        height: 60px;
+        border-radius: 50px;
+        font-size: 25px;
+        outline: none;
+        border: 0px solid;
+        font-weight: 600;
+        background-color: red;
+        color: whitesmoke;
+        transition: 0.5s;
+        margin-top: 20px;
+    }
+
+    .shopButtons button:hover {
+        background-color: rgb(3, 228, 3);
+        transition: 0.5s;
+
+    }
+
+}
+
+@media screen and (max-width:750px) {
+    .shopButtons {
+        position: absolute;
+        top: 55%;
+        left: 300px;
+    }
+
+    .shopButtons h1 {
+        background-color: rgba(245, 245, 245, 0.515);
+        padding: 30px;
+        border-radius: 30px;
+        font-size: 30px;
+        display: none;
+    }
+
+    .shopButtons h2 {
+        background-color: rgba(245, 245, 245, 0.515);
+        padding: 20px;
+        border-radius: 30px;
+        font-size: 20px;
+        display: none;
+    }
+
+    .shopButtons button {
+        width: 150px;
+        height: 40px;
+        border-radius: 50px;
+        font-size: 15px;
+        outline: none;
+        border: 0px solid;
+        font-weight: 600;
+        background-color: red;
+        color: whitesmoke;
+        transition: 0.5s;
+        margin-top: 20px;
+    }
+
+    .shopButtons button:hover {
+        background-color: rgb(3, 228, 3);
+        transition: 0.5s;
+
+    }
+
+}
+
+@media screen and (max-width:580px) {
+     /* button */
+     .btn-pre {
+        font-size: 20px;
+        color: rgb(43, 39, 39);
+        background-color: transparent;
+        position: absolute;
+        left: 1%;
+        border: 0px solid;
+        border-radius: 10%;
+        height: 500px;
+        width: 5%;
+        outline: none;
+        border: 0px solid;
+        transition: 0.5s;
+    }
+    .btn-pre:hover
+    {
+        color: rgba(255, 0, 0, 0.591);
+    }
+    
+    .btn-next {
+        font-size: 20px;
+        color: rgb(77, 60, 60);
+        background-color:transparent;
+        position: absolute;
+        right: 1%;
+        border: 0px solid;
+        border-radius: 10%;
+        height: 500px;
+        width: 5%;
+        outline: none;
+        border: 0px solid;
+        transition: 0.5s;
+    }
+    .btn-next:hover
+    {
+        color: rgba(255, 0, 0, 0.591);
+    }
+     /* button-1 */
+     .btn-pre1 {
+        font-size: 20px;
+        color: rgb(43, 39, 39);
+        background-color: transparent;
+        position: absolute;
+        left: 1%;
+        border: 0px solid;
+        border-radius: 10%;
+        height: 500px;
+        width: 5%;
+        outline: none;
+        border: 0px solid;
+        transition: 0.5s;
+    }
+    .btn-pre1:hover
+    {
+        color: rgba(255, 0, 0, 0.591);
+    }
+    
+    .btn-next1 {
+        font-size: 20px;
+        color: rgb(77, 60, 60);
+        background-color:transparent;
+        position: absolute;
+        right: 1%;
+        border: 0px solid;
+        border-radius: 10%;
+        height: 500px;
+        width: 5%;
+        outline: none;
+        border: 0px solid;
+        transition: 0.5s;
+    }
+    .btn-next1:hover
+    {
+        color: rgba(255, 0, 0, 0.591);
+    }
+   
+    
+    
+   
+     
+  
+    
+    
+    
+
+
+
+
+}
+
+
+
+#brand-name
+{
+  animation: brandy 10s infinite;
+  transition: 0.5s;
+
+}
+@keyframes brandy {
+  0%{
+    color:rgb(0, 255, 21);
+  }
+  20%{
+    color:rgb(230, 255, 179);
+  }
+  40%{
+    color:yellow;
+  }
+  60%{
+    color:rgb(255, 255, 255);
+  }
+  80%{
+    color:rgb(255, 172, 172);
+  }
+  100%{
+    color:rgb(255, 0, 13);
+  }
+  
+}
+#mini-tabs-bars li a:hover
+{
+    font-size: 20px;
+    color: rgb(19, 224, 19);
+}
+
+.carousel-item .setIt
+{
+    height: 100vh;
+    overflow: hidden;
+    object-position:75% 50%;
+    object-fit: cover;
+}
+
+.carousel-item .setIt2
+{
+    height: 100vh;
+    overflow: hidden;
+    object-position:60% 20%;
+    object-fit: cover;
+}
+/* New css */
+.aligner .card
+{
+    margin: auto;
+    color: rgb(255, 255, 255);
+}
+.aligner
+{
+    padding: 20px;
+}

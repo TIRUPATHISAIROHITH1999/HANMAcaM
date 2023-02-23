@@ -1,0 +1,64 @@
+{
+  "productPart": [
+    {
+      "chamberTitle": "DIGITAL CAMERAS",
+      "products": [
+        { "title": "DIGITAL_CAMERA_1", "url": "source/dg1.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DIGITAL_CAMERA_1", "url": "source/dg2.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DIGITAL_CAMERA_1", "url": "source/dg3.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DIGITAL_CAMERA_1", "url": "source/dg4.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DIGITAL_CAMERA_1", "url": "source/dg5.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DIGITAL_CAMERA_1", "url": "source/dg6.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DIGITAL_CAMERA_1", "url": "source/dg7.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DIGITAL_CAMERA_1", "url": "source/dg8.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DIGITAL_CAMERA_1", "url": "source/dg9.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DIGITAL_CAMERA_1", "url": "source/dg10.jpg", "description": "My camera are awesome camera .Lets rock !!!" }
+      ]
+    },
+    {
+      "chamberTitle": "DSLR",
+      "products": [
+        { "title": "DSLR_CAMERA_1", "url": "source/dslr1.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DSLR_CAMERA_2", "url": "source/dslr2.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DSLR_CAMERA_3", "url": "source/dslr3.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DSLR_CAMERA_4", "url": "source/dslr4.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DSLR_CAMERA_5", "url": "source/dslr5.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DSLR_CAMERA_6", "url": "source/dslr6.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DSLR_CAMERA_7", "url": "source/dslr7.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DSLR_CAMERA_8", "url": "source/dslr8.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DSLR_CAMERA_9", "url": "source/dslr9.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "DSLR_CAMERA_10", "url": "source/dslr10.jpg", "description": "My camera are awesome camera .Lets rock !!!" }
+      ]
+    },
+    {
+      "chamberTitle": "TELESCOPIC LENS",
+      "products": [
+        { "title": "TELESCOPIC_CAMERA_LENS", "url": "source/lens1.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "TELESCOPIC_CAMERA_LENS", "url": "source/lens2.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "TELESCOPIC_CAMERA_LENS", "url": "source/lens3.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "TELESCOPIC_CAMERA_LENS", "url": "source/lens4.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "TELESCOPIC_CAMERA_LENS", "url": "source/lens5.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "TELESCOPIC_CAMERA_LENS", "url": "source/lens6.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "TELESCOPIC_CAMERA_LENS", "url": "source/lens7.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "TELESCOPIC_CAMERA_LENS", "url": "source/lens8.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "TELESCOPIC_CAMERA_LENS", "url": "source/lens9.jpg", "description": "My camera are awesome camera .Lets rock !!!" },
+        { "title": "TELESCOPIC_CAMERA_LENS", "url": "source/lens10.jpg", "description": "My camera are awesome camera .Lets rock !!!" }
+      ]
+    },
+    {
+      "chamberTitle": "ACESSOROES",
+      "products": [
+        { "title": "ACCESSORIES", "url": "source/acc1.jpg", "description": "My accessories are awesome accessories .Lets role out !!!" },
+        { "title": "ACCESSORIES", "url": "source/acc2.jpg", "description": "My accessories are awesome accessories .Lets role out !!!" },
+        { "title": "ACCESSORIES", "url": "source/acc3.jpg", "description": "My accessories are awesome accessories .Lets role out !!!" },
+        { "title": "ACCESSORIES", "url": "source/acc4.jpg", "description": "My accessories are awesome accessories .Lets role out !!!" },
+        { "title": "ACCESSORIES", "url": "source/acc5.jpg", "description": "My accessories are awesome accessories .Lets role out !!!" },
+        { "title": "ACCESSORIES", "url": "source/acc6.jpg", "description": "My accessories are awesome accessories .Lets role out !!!" },
+        { "title": "ACCESSORIES", "url": "source/acc7.jpg", "description": "My accessories are awesome accessories .Lets role out !!!" },
+        { "title": "ACCESSORIES", "url": "source/acc8.jpg", "description": "My accessories are awesome accessories .Lets role out !!!" },
+        { "title": "ACCESSORIES", "url": "source/acc9.jpg", "description": "My accessories are awesome accessories .Lets role out !!!" },
+        { "title": "ACCESSORIES", "url": "source/acc10.jpg", "description": "My accessories are awesome accessories .Lets role out !!!" }
+      ]
+    }
+  ]
+}
